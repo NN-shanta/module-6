@@ -1,11 +1,15 @@
 .media {
   display: flex;
   justify-content: space-evenly;
+  
+}
+
+.heading1{
   text-align: center;
 }
 
 .video-content {
-  /* border: 1px solid rebeccapurple; */
+  border: 1px solid rebeccapurple;
   height: 500px;
   width: 50%;
   padding: 10px 10px;
@@ -19,7 +23,7 @@
   width: 100%;
 }
 .audio-content {
-  /* border: 1px solid rebeccapurple; */
+  border: 1px solid rebeccapurple;
   height: 500px;
   width: 50%;
   padding: 10px 10px;
